@@ -11,7 +11,7 @@ function App() {
               Marketplace
             </a>
             <a href="#" className="nav-link">
-              Activity
+              Activityy
             </a>
             <a href="#" className="nav-link">
               Community
